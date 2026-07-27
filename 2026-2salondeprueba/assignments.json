@@ -3,7 +3,7 @@
   "assignments": [
     {
       "slug": "prueba-1",
-      "name": "Prueba 1",
+      "name": "Prueba1",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
