@@ -1,4 +1,20 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "prueba-1",
+      "name": "Prueba 1",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "due": "2026-07-28T04:59:00Z",
+      "due_meta": {
+        "input": "2026-07-27T23:59:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      }
+    }
+  ]
 }
