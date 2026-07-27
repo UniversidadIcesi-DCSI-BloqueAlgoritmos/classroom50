@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "2026-2-G3-APO1-SIS",
+  "short_name": "2026-2-g3-apo1-sis",
+  "term": "2026-2",
+  "org": "IcesiAPOI",
+  "team": {
+    "id": 18707569,
+    "slug": "classroom50-2026-2-g3-apo1-sis"
+  },
+  "teams": {
+    "teacher": {
+      "id": 18707570,
+      "slug": "classroom50-2026-2-g3-apo1-sis-teacher"
+    },
+    "hta": {
+      "id": 18707571,
+      "slug": "classroom50-2026-2-g3-apo1-sis-hta"
+    },
+    "ta": {
+      "id": 18707572,
+      "slug": "classroom50-2026-2-g3-apo1-sis-ta"
+    }
+  }
+}
