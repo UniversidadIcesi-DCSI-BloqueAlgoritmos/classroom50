@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "2026-2SalonDePrueba",
+  "short_name": "2026-2salondeprueba",
+  "term": "2026-2",
+  "org": "IcesiAPOI",
+  "team": {
+    "id": 18707595,
+    "slug": "classroom50-2026-2salondeprueba"
+  },
+  "teams": {
+    "teacher": {
+      "id": 18707596,
+      "slug": "classroom50-2026-2salondeprueba-teacher"
+    },
+    "hta": {
+      "id": 18707597,
+      "slug": "classroom50-2026-2salondeprueba-hta"
+    },
+    "ta": {
+      "id": 18707598,
+      "slug": "classroom50-2026-2salondeprueba-ta"
+    }
+  }
+}
