@@ -1,4 +1,12 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "tarea-ciclos",
+      "name": "Tarea Ciclos",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false
+    }
+  ]
 }
