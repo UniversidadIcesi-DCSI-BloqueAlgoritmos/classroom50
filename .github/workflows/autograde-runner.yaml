@@ -59,7 +59,7 @@ jobs:
       release-assets: ${{ steps.read.outputs.release-assets }}
     steps:
       - name: Check out repository
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        uses: actions/checkout@v7
         with:
           # Full history -- the acceptance check walks back to the commit
           # that added .classroom50.yaml; a shallow clone hides it.
@@ -620,7 +620,7 @@ jobs:
       RELEASE_ASSETS: ${{ needs.setup.outputs.release-assets }}
     steps:
       - name: Check out submission
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.sha }}
           # Full history -- runner.py needs the student's baseline
