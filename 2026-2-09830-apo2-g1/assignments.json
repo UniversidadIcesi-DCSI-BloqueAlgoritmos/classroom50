@@ -22,7 +22,8 @@
         "zone": "America/Bogota",
         "offset": "-05:00",
         "source": "auto-detected"
-      }
+      },
+      "locked": true
     }
   ]
 }
