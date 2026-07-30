@@ -9,9 +9,9 @@
       "feedback_pr": false,
       "empty_repo": true,
       "description": "Taller de repaso",
-      "due": "2026-07-30T14:50:00Z",
+      "due": "2026-07-30T14:44:00Z",
       "due_meta": {
-        "input": "2026-07-30T09:50:00",
+        "input": "2026-07-30T09:44:00",
         "zone": "America/Bogota",
         "offset": "-05:00",
         "source": "auto-detected"
