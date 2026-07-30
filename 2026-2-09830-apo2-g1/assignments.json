@@ -24,6 +24,25 @@
         "source": "auto-detected"
       },
       "locked": true
+    },
+    {
+      "slug": "taller-apo2-semana-1",
+      "name": "Taller APO2 - Semana 1",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "template": {
+        "owner": "UniversidadIcesi-DCSI-BloqueAlgoritmos",
+        "repo": "2026-2-APO2-TallerSemana1",
+        "branch": "main"
+      },
+      "due": "2026-07-30T15:15:00Z",
+      "due_meta": {
+        "input": "2026-07-30T10:15:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      }
     }
   ]
 }
