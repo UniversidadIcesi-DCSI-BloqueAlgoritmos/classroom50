@@ -1,4 +1,28 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "taller-apo2-semana-2",
+      "name": "Taller APO2 - Semana 2",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Taller de repaso",
+      "due": "2026-07-30T14:40:00Z",
+      "due_meta": {
+        "input": "2026-07-30T09:40:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-07-30T14:00:00Z",
+      "available_from_meta": {
+        "input": "2026-07-30T09:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      }
+    }
+  ]
 }
