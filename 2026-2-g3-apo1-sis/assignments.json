@@ -15,6 +15,13 @@
         "offset": "-05:00",
         "source": "auto-detected"
       },
+      "available_from": "2026-08-18T12:30:00Z",
+      "available_from_meta": {
+        "input": "2026-08-18T07:30:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
       "submission_mode": "every-push",
       "grading": {
         "mode": "off"
