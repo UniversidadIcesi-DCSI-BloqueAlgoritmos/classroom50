@@ -26,6 +26,32 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "tarea-integradora-entrega-1",
+      "name": "Tarea Integradora - Entrega 1",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "due": "2026-09-06T02:59:00Z",
+      "due_meta": {
+        "input": "2026-09-05T21:59:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-08-20T05:00:00Z",
+      "available_from_meta": {
+        "input": "2026-08-20T00:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "submission_mode": "every-push",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
