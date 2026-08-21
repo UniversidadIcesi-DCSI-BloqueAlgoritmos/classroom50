@@ -1,4 +1,40 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "g3-taller-git-scrum",
+      "name": "G3-taller-git-scrum",
+      "mode": "group",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "ingri05",
+        "repo": "2026-2-CalculadoraVenta",
+        "branch": "main"
+      },
+      "description": "Taller práctico para gitflow y gestión de proyectos con Scrum",
+      "due": "2026-09-02T12:00:00Z",
+      "due_meta": {
+        "input": "2026-09-02T07:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-08-26T12:00:00Z",
+      "available_from_meta": {
+        "input": "2026-08-26T07:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "max_group_size": 4,
+      "submission_mode": "every-push",
+      "grading": {
+        "mode": "off"
+      }
+    }
+  ]
 }
