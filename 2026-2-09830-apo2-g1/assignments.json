@@ -23,7 +23,11 @@
         "offset": "-05:00",
         "source": "auto-detected"
       },
-      "locked": true
+      "locked": true,
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
+      }
     },
     {
       "slug": "taller-apo2-semana-1",
@@ -42,6 +46,10 @@
         "zone": "America/Bogota",
         "offset": "-05:00",
         "source": "auto-detected"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     }
   ]
