@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "2026-2-09830-APO2-G5",
+  "short_name": "2026-2-09830-apo2-g5",
+  "term": "2026-2",
+  "org": "UniversidadIcesi-DCSI-BloqueAlgoritmos",
+  "team": {
+    "id": 19107915,
+    "slug": "classroom50-2026-2-09830-apo2-g5"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19107916,
+      "slug": "classroom50-2026-2-09830-apo2-g5-teacher"
+    },
+    "hta": {
+      "id": 19107917,
+      "slug": "classroom50-2026-2-09830-apo2-g5-hta"
+    },
+    "ta": {
+      "id": 19107918,
+      "slug": "classroom50-2026-2-09830-apo2-g5-ta"
+    }
+  }
+}
