@@ -3,7 +3,7 @@
   "assignments": [
     {
       "slug": "taller-git-scrum",
-      "name": "Taller-git-scrum",
+      "name": "G5-taller-git-scrum",
       "mode": "group",
       "autograder": "default",
       "feedback_pr": true,
