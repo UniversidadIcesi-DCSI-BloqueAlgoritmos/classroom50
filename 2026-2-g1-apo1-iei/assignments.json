@@ -2,32 +2,6 @@
   "schema": "classroom50/assignments/v1",
   "assignments": [
     {
-      "slug": "fundamentos-de-git-y-github",
-      "name": "Fundamentos de Git y GitHub",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": false,
-      "empty_repo": true,
-      "due": "2026-08-28T16:59:00Z",
-      "due_meta": {
-        "input": "2026-08-28T11:59:00",
-        "zone": "America/Bogota",
-        "offset": "-05:00",
-        "source": "auto-detected"
-      },
-      "available_from": "2026-08-21T05:00:00Z",
-      "available_from_meta": {
-        "input": "2026-08-21T00:00:00",
-        "zone": "America/Bogota",
-        "offset": "-05:00",
-        "source": "auto-detected"
-      },
-      "submission_mode": "every-push",
-      "grading": {
-        "mode": "off"
-      }
-    },
-    {
       "slug": "tarea-integradora-entrega-1",
       "name": "Tarea Integradora - Entrega 1",
       "mode": "individual",
@@ -49,6 +23,32 @@
         "source": "auto-detected"
       },
       "submission_mode": "every-push",
+      "grading": {
+        "mode": "off"
+      }
+    },
+    {
+      "slug": "fundamentos-de-git-y-github",
+      "name": "Fundamentos de Git y GitHub",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Cargar los archivos java que contienen los ejercicios hechos en clase de la lección 7",
+      "due": "2026-08-28T16:59:00Z",
+      "due_meta": {
+        "input": "2026-08-28T11:59:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-08-21T05:00:00Z",
+      "available_from_meta": {
+        "input": "2026-08-21T00:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
       "grading": {
         "mode": "off"
       }
