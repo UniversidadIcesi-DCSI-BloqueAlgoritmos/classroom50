@@ -16,9 +16,9 @@
         "branch": "main"
       },
       "description": "Taller práctico para gitflow y gestión de proyectos con Scrum",
-      "due": "2026-09-02T12:00:00Z",
+      "due": "2026-08-29T01:00:00Z",
       "due_meta": {
-        "input": "2026-09-02T07:00:00",
+        "input": "2026-08-28T20:00:00",
         "zone": "America/Bogota",
         "offset": "-05:00",
         "source": "auto-detected"
@@ -31,7 +31,6 @@
         "source": "auto-detected"
       },
       "max_group_size": 4,
-      "submission_mode": "every-push",
       "grading": {
         "mode": "off"
       }
