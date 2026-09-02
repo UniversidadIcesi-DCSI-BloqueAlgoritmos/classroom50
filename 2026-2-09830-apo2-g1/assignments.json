@@ -86,6 +86,33 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "taller-apo2-semana-5",
+      "name": "Taller APO2 - Semana 5",
+      "mode": "group",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Pruebas unitarias - Restaurante",
+      "due": "2026-09-04T04:59:00Z",
+      "due_meta": {
+        "input": "2026-09-03T23:59:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-09-03T12:00:00Z",
+      "available_from_meta": {
+        "input": "2026-09-03T07:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "max_group_size": 2,
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
