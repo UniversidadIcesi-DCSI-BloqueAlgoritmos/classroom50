@@ -35,6 +35,32 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "taller-apo-2-restaurante",
+      "name": "Taller APO 2 - Restaurante",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Pruebas unitarias - Restaurante",
+      "due": "2026-09-04T16:00:00Z",
+      "due_meta": {
+        "input": "2026-09-04T11:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-09-04T14:00:00Z",
+      "available_from_meta": {
+        "input": "2026-09-04T09:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
