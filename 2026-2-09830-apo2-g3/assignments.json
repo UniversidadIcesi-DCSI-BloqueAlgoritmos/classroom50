@@ -34,6 +34,34 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "taller-1-pruebas-unitarias",
+      "name": "Taller 1 : Pruebas Unitarias",
+      "mode": "group",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Primer taller práctico para aplicar la gestión de la configuración y el desarrollo de pruebas unitarias.",
+      "due": "2026-09-12T01:00:00Z",
+      "due_meta": {
+        "input": "2026-09-11T20:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-09-04T12:00:00Z",
+      "available_from_meta": {
+        "input": "2026-09-04T07:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "max_group_size": 3,
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
