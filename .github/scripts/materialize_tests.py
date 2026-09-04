@@ -13,7 +13,7 @@ built-in interpreter (run_declarative).
 Validation lives elsewhere (tests.go at write time, runner.py at grade time),
 so this script stays forgiving: a malformed manifest emits a ::warning:: and is
 skipped rather than failing the Pages deploy. tests.json-vs-autograder.py
-precedence is resolved in ONE place — runner.py's entrypoint resolution — so it
+precedence is resolved in ONE place (runner.py's entrypoint resolution) so it
 isn't special-cased here.
 """
 
@@ -78,7 +78,8 @@ def materialize(root: pathlib.Path) -> int:
                 print(f"::warning::{target}: replaced by the tests stored on the "
                       f"assignment. tests.json is generated at publish time; remove "
                       f"the committed copy and manage tests with the web assignment "
-                      f"form or `gh teacher assignment test add`.")
+                      f"form, `gh teacher assignment test add`, or "
+                      f"`gh teacher assignment test set --tests FILE`.")
             payload = {"schema": TESTS_SCHEMA_V1, "tests": tests}
             # Assignment-level defaults for the per-test reporting options
             # (failure-details / show-output) ride the envelope; runner.py's
