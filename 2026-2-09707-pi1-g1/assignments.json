@@ -1,4 +1,17 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "2026-2-taller-git-github",
+      "name": "2026-2 Taller Git - Github",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Taller de git y github avanzado.",
+      "grading": {
+        "mode": "off"
+      }
+    }
+  ]
 }
