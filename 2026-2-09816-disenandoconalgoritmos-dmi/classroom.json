@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "2026-2-09816-DisenandoConAlgoritmos-DMI-G1",
+  "short_name": "2026-2-09816-disenandoconalgoritmos-dmi",
+  "term": "",
+  "org": "UniversidadIcesi-DCSI-BloqueAlgoritmos",
+  "team": {
+    "id": 19396238,
+    "slug": "classroom50-2026-2-09816-disenandoconalgoritmos-dmi"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19396239,
+      "slug": "classroom50-2026-2-09816-disenandoconalgoritmos-dmi-teacher"
+    },
+    "hta": {
+      "id": 19396240,
+      "slug": "classroom50-2026-2-09816-disenandoconalgoritmos-dmi-hta"
+    },
+    "ta": {
+      "id": 19396241,
+      "slug": "classroom50-2026-2-09816-disenandoconalgoritmos-dmi-ta"
+    }
+  }
+}
