@@ -44,6 +44,40 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "2026-2-taller-git",
+      "name": "2026-2 Taller Git",
+      "mode": "group",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "UniversidadIcesi-DCSI-BloqueAlgoritmos",
+        "repo": "Library",
+        "branch": "main"
+      },
+      "description": "Taller git y git hub avanzado",
+      "due": "2026-09-17T21:00:00Z",
+      "due_meta": {
+        "input": "2026-09-17T16:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-09-10T21:00:00Z",
+      "available_from_meta": {
+        "input": "2026-09-10T16:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "max_group_size": 2,
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
