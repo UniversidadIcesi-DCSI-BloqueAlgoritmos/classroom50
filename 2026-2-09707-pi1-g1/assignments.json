@@ -7,7 +7,12 @@
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
-      "empty_repo": true,
+      "no_autograder": true,
+      "template": {
+        "owner": "UniversidadIcesi-DCSI-BloqueAlgoritmos",
+        "repo": "Library",
+        "branch": "main"
+      },
       "description": "Taller de git y github avanzado.",
       "due": "2026-09-17T21:00:00Z",
       "due_meta": {
