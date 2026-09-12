@@ -1,4 +1,18 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "2026-2-ti-sgmms",
+      "name": "2026-2 TI - SGMMS",
+      "mode": "group",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Repositorio para la gestión de la tarea integradora Sistema de Gestión y Monitoreo de Movilidad y Seguridad — SGMMS",
+      "max_group_size": 4,
+      "grading": {
+        "mode": "off"
+      }
+    }
+  ]
 }
