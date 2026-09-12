@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Tarea Integradora",
+  "short_name": "tarea-integradora",
+  "term": "TI",
+  "org": "UniversidadIcesi-DCSI-BloqueAlgoritmos",
+  "team": {
+    "id": 19465598,
+    "slug": "classroom50-tarea-integradora"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19465600,
+      "slug": "classroom50-tarea-integradora-teacher"
+    },
+    "hta": {
+      "id": 19465601,
+      "slug": "classroom50-tarea-integradora-hta"
+    },
+    "ta": {
+      "id": 19465602,
+      "slug": "classroom50-tarea-integradora-ta"
+    }
+  }
+}
