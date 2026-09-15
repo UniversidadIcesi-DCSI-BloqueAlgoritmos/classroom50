@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "2026-2-09703-AlgoritmosYProgramacionI-DMI-G3",
+  "short_name": "2026-2-09703-algoritmosyprogramacioni-dm",
+  "term": "2026-2",
+  "org": "UniversidadIcesi-DCSI-BloqueAlgoritmos",
+  "team": {
+    "id": 19508159,
+    "slug": "classroom50-2026-2-09703-algoritmosyprogramacioni-dm"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19508160,
+      "slug": "classroom50-2026-2-09703-algoritmosyprogramacioni-dm-teacher"
+    },
+    "hta": {
+      "id": 19508162,
+      "slug": "classroom50-2026-2-09703-algoritmosyprogramacioni-dm-hta"
+    },
+    "ta": {
+      "id": 19508163,
+      "slug": "classroom50-2026-2-09703-algoritmosyprogramacioni-dm-ta"
+    }
+  }
+}
