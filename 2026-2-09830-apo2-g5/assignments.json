@@ -61,6 +61,18 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "taller-incremental-student",
+      "name": "Taller Incremental - Student",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Taller incremental para aplicar los conceptos de ordenamientos - búsqueda binaria",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
