@@ -1,0 +1,49 @@
+{
+  "schema": "classroom50/teams/v1",
+  "assignments": {
+    "taller-apo2-semana-8-compusale": {
+      "teams": [
+        {
+          "slug": "classroom50-group-2b386c2330549af8-1",
+          "id": 19661618,
+          "name": "Lomecan's boys",
+          "members": [
+            "lfsanchezrod",
+            "Teylor203",
+            "progPenagos",
+            "Stiven-valois",
+            "Zereft21",
+            "takeshitatekawa",
+            "hfmolina7-ui",
+            "Gomz-tech",
+            "alperdomoarturo-source",
+            "jsbc450",
+            "smncano123",
+            "Martinr0609"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-2b386c2330549af8-2",
+          "id": 19661643,
+          "name": "grupo #1",
+          "members": [
+            "Vegytop22",
+            "breidycaicedo",
+            "ZenDel1021",
+            "marianafuertesc",
+            "valenstudy07",
+            "juancamiloaguadogomez-sys",
+            "ManuR123-star",
+            "Juanjoseh82",
+            "lindaplazas1204",
+            "nataliagm18",
+            "yemerquintero15-coder",
+            "vvgomezzzz-dot"
+          ],
+          "formation": "student"
+        }
+      ]
+    }
+  }
+}
