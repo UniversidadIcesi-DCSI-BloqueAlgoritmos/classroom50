@@ -82,6 +82,13 @@
       "feedback_pr": false,
       "empty_repo": true,
       "description": "Taller para la práctica de ordenamientos y búsqueda binaria",
+      "due": "2026-09-27T04:59:00Z",
+      "due_meta": {
+        "input": "2026-09-26T23:59:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
       "available_from": "2026-09-23T14:00:00Z",
       "available_from_meta": {
         "input": "2026-09-23T09:00:00",
