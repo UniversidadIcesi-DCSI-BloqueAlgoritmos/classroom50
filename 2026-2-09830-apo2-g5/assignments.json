@@ -73,6 +73,20 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "2026-2-taller-ordenamientos",
+      "name": "2026-2 Taller Ordenamientos",
+      "mode": "team",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Taller para la práctica de ordenamientos y búsqueda binaria",
+      "max_group_size": 6,
+      "team_formation": "student",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
