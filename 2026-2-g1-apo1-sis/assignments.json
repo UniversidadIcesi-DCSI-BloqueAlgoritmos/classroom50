@@ -61,9 +61,9 @@
       "autograder": "default",
       "feedback_pr": false,
       "empty_repo": true,
-      "due": "2026-10-04T02:59:00Z",
+      "due": "2026-10-11T02:59:00Z",
       "due_meta": {
-        "input": "2026-10-03T21:59:00",
+        "input": "2026-10-10T21:59:00",
         "zone": "America/Bogota",
         "offset": "-05:00",
         "source": "auto-detected"
