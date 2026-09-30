@@ -47,6 +47,18 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "2026-2-taller-django",
+      "name": "2026-2 Taller Django",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Asignación para trabajar el taller de instalación de python y Django.",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
