@@ -141,6 +141,32 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "taller-apo2-semana-10-preparcial",
+      "name": "Taller APO2 - Semana 10 - Preparcial",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "init_shim": true,
+      "description": "Ejercicio de preparación para el parcial",
+      "due": "2026-10-13T04:59:00Z",
+      "due_meta": {
+        "input": "2026-10-12T23:59:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-10-06T12:00:00Z",
+      "available_from_meta": {
+        "input": "2026-10-06T07:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
