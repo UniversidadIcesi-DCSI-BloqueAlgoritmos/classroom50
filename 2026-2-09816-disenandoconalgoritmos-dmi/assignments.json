@@ -11,6 +11,17 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "si2",
+      "name": "Seguimiento Individual 2",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
