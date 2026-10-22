@@ -22,6 +22,17 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "t7-catalogo-react",
+      "name": "Tarea 7: Catálogo de Productos con React y TypeScript",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
