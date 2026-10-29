@@ -59,6 +59,32 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "2026-2-taller-selenium",
+      "name": "2026-2 Taller Selenium",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "description": "Taller de automatización de pruebas con Selenium",
+      "due": "2026-10-30T01:00:00Z",
+      "due_meta": {
+        "input": "2026-10-29T20:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-10-29T21:00:00Z",
+      "available_from_meta": {
+        "input": "2026-10-29T16:00:00",
+        "zone": "America/Bogota",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
