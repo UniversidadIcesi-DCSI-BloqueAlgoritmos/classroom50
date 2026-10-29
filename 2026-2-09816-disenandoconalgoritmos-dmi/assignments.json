@@ -33,6 +33,17 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "taller-repaso-3",
+      "name": "Taller repaso 3",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
