@@ -44,6 +44,17 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "si3",
+      "name": "Seguimiento Individual 3",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
