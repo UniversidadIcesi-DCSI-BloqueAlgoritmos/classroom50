@@ -8,9 +8,9 @@
       "autograder": "default",
       "feedback_pr": false,
       "empty_repo": true,
-      "due": "2026-11-19T02:59:00Z",
+      "due": "2026-11-23T23:00:00Z",
       "due_meta": {
-        "input": "2026-11-18T21:59:00",
+        "input": "2026-11-23T18:00:00",
         "zone": "America/Bogota",
         "offset": "-05:00",
         "source": "auto-detected"
