@@ -3,7 +3,7 @@
   "assignments": [
     {
       "slug": "tarea-integradora-e",
-      "name": "Tarea Integradora - Entrega 3",
+      "name": "Tarea Integradora - Entrega Final",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
